@@ -1,5 +1,7 @@
 == CH1: The Enigma Machine - Commercial Enigma
 
+image:./images/Arthur_Scherbius.jpg[]
+
 https://en.wikipedia.org/wiki/Arthur_Scherbius[Jacob Ludolf Arthur Scherbius] (30 October 1878 – 13 May 1929) was a German electrical engineer who is best known for inventing the mechanical rotor cipher Enigma machine. As early as 23 February 1918, he filed his first patent for an encryption machine.
 
 Scherbius Enigma patent, U.S. patent 1,657,411, granted in 1928.
