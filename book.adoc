@@ -3,5 +3,6 @@
 :doctype: book
 :source-highlighter: rouge
 
-== First Chapter
 include::sections/chapter1.adoc[]
+
+include::sections/chapter2.adoc[]
