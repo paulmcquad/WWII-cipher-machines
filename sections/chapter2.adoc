@@ -1,1 +1,17 @@
-== CH2: Enigma 2
+== CH2: Enigma Models
+
+Enigma has many Models.
+
+**Commercial Enigma**
+
+* Enigma Handelsmaschine (1923)
+* Schreibende Enigma (1924)
+* Glühlampenmaschine, Enigma A (1924)
+* Enigma B (1924)
+* Enigma C (1926)
+* Enigma D (1927)
+* "Navy Cipher D"
+* Enigma H (1929)
+* Enigma K
+
+**Military Enigma**

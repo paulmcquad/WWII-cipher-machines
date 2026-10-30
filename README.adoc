@@ -3,5 +3,11 @@
 
 == Resources
 
+Asciidoctor Documentation
+
+https://docs.asciidoctor.org/
+
 Writing technical books in AsciiDoc
+
 https://www.pachadata.com/en/blog/2025/11/30/writing-technical-books-in-asciidoc/
+
