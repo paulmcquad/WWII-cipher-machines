@@ -2,7 +2,7 @@
 
 Enigma has many Models.
 
-**Commercial Enigma**
+[.underline]#**Commercial Enigma**#
 
 * Enigma Handelsmaschine (1923)
 * Schreibende Enigma (1924)
@@ -14,4 +14,11 @@ Enigma has many Models.
 * Enigma H (1929)
 * Enigma K
 
-**Military Enigma**
+[.underline]#**Military Enigma**#
+
+* Funkschlüssel C
+* Enigma G (1928–1930)
+* Wehrmacht Enigma I (1930–1938)
+* M3 (1934)
+* Two extra rotors (1938)
+* M4 (1942)
