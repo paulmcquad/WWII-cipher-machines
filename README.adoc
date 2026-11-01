@@ -1,7 +1,9 @@
 = README
 
+.Resources
+****
 
-== Resources
+[.underline]#**Resources**#
 
 Asciidoctor Documentation
 
@@ -11,8 +13,9 @@ Writing technical books in AsciiDoc
 
 https://www.pachadata.com/en/blog/2025/11/30/writing-technical-books-in-asciidoc/
 
-== Enigma
+[.underline]#**Enigma**#
 
 https://www.cryptomuseum.com/crypto/enigma/
 
 https://nrtechstudio.com/tools/enigma-simulator/
+****
