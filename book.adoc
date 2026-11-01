@@ -6,3 +6,5 @@
 include::sections/chapter1.adoc[]
 
 include::sections/chapter2.adoc[]
+
+include::sections/chapter3.adoc[]
