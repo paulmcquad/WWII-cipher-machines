@@ -2,6 +2,7 @@
 :author: Paul McQuade
 :doctype: book
 :source-highlighter: rouge
+:toc:
 
 include::sections/chapter1.adoc[]
 
