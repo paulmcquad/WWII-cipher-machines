@@ -1,3 +1,3 @@
 == CH3: Enigma Handelsmaschine (1923)
 
-The early printing machine, with four permanent rotors and a type-wheel printer.
+The early printing machine, with four permanent rotors with 28 electrical contacts at either side, and a cog-wheel driven stepping mechanism and a type-wheel printer.
