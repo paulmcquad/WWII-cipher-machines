@@ -11,4 +11,6 @@ include::sections/chapter2.adoc[]
 
 include::sections/chapter3.adoc[]
 
+include::sections/chapter4.adoc[]
+
 include::sections/index.adoc[]

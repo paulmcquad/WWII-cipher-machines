@@ -1,0 +1,6 @@
+== Schreibende Enigma (1924)
+
+This was also a model with a type writer. There were a number of problems associated with the printer and the construction was not stable until 1926. Both early versions of Enigma lacked the reflector and had to be switched between enciphering and deciphering.
+
+[.center.text-right]
+image:./images/CH4/Enigma-1924.jpg[128 ,128]
