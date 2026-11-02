@@ -1,3 +1,13 @@
 == CH3: Enigma Handelsmaschine (1923)
 
-The early printing machine, with four permanent rotors with 28 electrical contacts at either side, and a cog-wheel driven stepping mechanism and a type-wheel printer.
+The early printing machine, with four permanent rotors with 28 electrical contacts at either side, and a cog-wheel driven stepping mechanism and a type-wheel printer. **Handelsmaschine** means **trading machine** in german.
+
+[.center.text-right]
+image:./images/CH3/printing-enigma.jpg[Enigma 1923, 128, 128]
+
+=== Key Size
+
+According to Scherbius, it had a cipher period of approx. 1 million, which means that the cipher pattern repeats only after 1 million characters. About 20,000 of such periods were present. Part of the rotor turnover mechanism is described in German patent DE429122 of 26 March 1924 [2]. 
+
+[.center.text-right]
+image:./images/CH3/handelsmaschine.png[Enigma 1923, 128, 128]
