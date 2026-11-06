@@ -5,6 +5,8 @@
 :data-uri:
 :toc:
 
+= [.underline]#**Commercial Enigma**#
+
 include::sections/chapter1.adoc[]
 
 include::sections/chapter2.adoc[]
@@ -12,5 +14,33 @@ include::sections/chapter2.adoc[]
 include::sections/chapter3.adoc[]
 
 include::sections/chapter4.adoc[]
+
+include::sections/chapter5.adoc[]
+
+include::sections/chapter6.adoc[]
+
+include::sections/chapter7.adoc[]
+
+include::sections/chapter8.adoc[]
+
+include::sections/chapter9.adoc[]
+
+include::sections/chapter10.adoc[]
+
+include::sections/chapter11.adoc[]
+
+= [.underline]#**Military Enigma**#
+
+include::sections/chapter12.adoc[]
+
+include::sections/chapter13.adoc[]
+
+include::sections/chapter14.adoc[]
+
+include::sections/chapter15.adoc[]
+
+include::sections/chapter16.adoc[]
+
+include::sections/chapter17.adoc[]
 
 include::sections/index.adoc[]
