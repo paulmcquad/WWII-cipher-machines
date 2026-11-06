@@ -2,3 +2,6 @@
 
 
 https://nrtechstudio.com/tools/enigma-simulator/[Enigma Machine Simulator - Enigma M3 simulator]
+
+
+https://cipherregister.com/tools/enigma-machine[Enigma Machine Simulator]
