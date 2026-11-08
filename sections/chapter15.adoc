@@ -13,3 +13,5 @@ https://shadowenigma.com/simulator[Enigma Simulator M3]
 https://toolbox.thoughtasylum.com/enigma/[Enigma Simulator]
 
 https://mysmartcopilot.com/tools/enigma-machine-simulator/[enigma-machine-simulator]
+
+https://www.public-enigma.com/simulator[Windows simulator]
