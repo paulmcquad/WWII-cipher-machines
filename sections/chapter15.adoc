@@ -17,3 +17,5 @@ https://mysmartcopilot.com/tools/enigma-machine-simulator/[enigma-machine-simula
 https://www.public-enigma.com/simulator[Windows simulator]
 
 https://decoder.tools/enigma-simulator[Enigma M3/M4]
+
+https://olehproidakov.pp.ua/enigma-machine/[Enigma Machine]
