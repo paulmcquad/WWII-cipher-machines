@@ -7,3 +7,5 @@ https://nrtechstudio.com/tools/enigma-simulator/[Enigma Machine Simulator - Enig
 https://cipherregister.com/tools/enigma-machine[Enigma Machine Simulator]
 
 https://people.physik.hu-berlin.de/~palloks/js/enigma/enigma-u_v262_en.html[Universal Enigma]
+
+https://shadowenigma.com/simulator[Enigma Simulator M3]
